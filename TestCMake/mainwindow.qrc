@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/mainwindow">
+        <file>images/exit_to_app_48.png</file>
+    </qresource>
+</RCC>
