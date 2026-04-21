@@ -1,13 +1,23 @@
 ﻿※ ●：Open状態、◎：Fixed & Closed、○：not Fixed & Closed、NPTF：No Plan To Fix
 SPR# 状 P Open Close ver     Type  概要
 -----------------------------------------------------------------------------
-0001 ◎ C 04/13 04/13 0001│ToDo│プロジェクト作成
-0002 ◎ C 04/13 04/20 0001│ToDo│File > eXit メニュー追加
-0003 ◎ C 04/13 04/20 0001│ToDo│File > eXit：アイコン表示
-0004 ◎ C 04/13 04/20 0001│ToDo│image/exit_...png 追加 ＆ リソース登録
-0005 ◎ C 04/13 04/20 0001│ToDo│ソース類を src/ 以下に移動 ＆ CMakeLists.txt 修正（src/ 付加）
-0006 ● C 04/13           │ToDo│MacOS でビルドしてみる
-0007 ◎ C 04/13 04/20 0001│ToDo│src/ 下にも CMakeLists.txt 設置？
-0008 ◎ C 04/13 04/21 0001│ToDo│TestCMake/viMarkdown プロジェクト追加
-0009 ● C 04/13           │ToDo│
-0010 ● C 04/13           │ToDo│
+0001 ◎ C 04/20 04/20 0001│ToDo│プロジェクト作成
+0002 ◎ C 04/20 04/20 0001│ToDo│File > eXit メニュー追加
+0003 ◎ C 04/20 04/20 0001│ToDo│File > eXit：アイコン表示
+0004 ◎ C 04/20 04/20 0001│ToDo│image/exit_...png 追加 ＆ リソース登録
+0005 ◎ C 04/20 04/20 0001│ToDo│ソース類を src/ 以下に移動 ＆ CMakeLists.txt 修正（src/ 付加）
+0006 ● C 04/20           │ToDo│MacOS でビルドしてみる
+0007 ◎ C 04/20 04/20 0001│ToDo│src/ 下にも CMakeLists.txt 設置？
+0008 ◎ C 04/20 04/21 0001│ToDo│TestCMake/viMarkdown プロジェクト追加
+0009 ◎ C 04/21 04/21 0001│ToDo│TestCMake/viMarkdown：ソース類を src/ に移動、src/ 下にも CMakeLists.txt 設置
+0010 ◎ C 04/21 04/21 0001│ToDo│image/*.png, mainwindow.qrc を VS プロジェクトからコピー
+0011 ◎ C 04/21 04/21 0001│ToDo│mainwindow.ui を VS プロジェクトからコピー
+0012 ● C 04/21           │ToDo│
+0013 ● C 04/21           │ToDo│
+0014 ● C 04/21           │ToDo│
+0015 ● C 04/21           │ToDo│
+0016 ● C 04/21           │ToDo│
+0017 ● C 04/21           │ToDo│
+0018 ● C 04/21           │ToDo│
+0019 ● C 04/21           │ToDo│
+0020 ● C 04/21           │ToDo│
