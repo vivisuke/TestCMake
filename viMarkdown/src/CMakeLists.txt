@@ -7,6 +7,9 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
+        ReplaceDialog.cpp
+        ReplaceDialog.h
+        ReplaceDialog.ui
         ${TS_FILES}
 )
 

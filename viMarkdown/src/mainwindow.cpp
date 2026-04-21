@@ -1,5 +1,8 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
+//#include "ReplaceDialog.h"
+
+Global g;
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)

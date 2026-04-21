@@ -12,7 +12,7 @@ SPR# 状 P Open Close ver     Type  概要
 0009 ◎ C 04/21 04/21 0001│ToDo│TestCMake/viMarkdown：ソース類を src/ に移動、src/ 下にも CMakeLists.txt 設置
 0010 ◎ C 04/21 04/21 0001│ToDo│image/*.png, mainwindow.qrc を VS プロジェクトからコピー
 0011 ◎ C 04/21 04/21 0001│ToDo│mainwindow.ui を VS プロジェクトからコピー
-0012 ● C 04/21           │ToDo│
+0012 ◎ C 04/21 04/21 0001│ToDo│とりあえず、ReplaceDialog.* をプロジェクトに追加してみる
 0013 ● C 04/21           │ToDo│
 0014 ● C 04/21           │ToDo│
 0015 ● C 04/21           │ToDo│
