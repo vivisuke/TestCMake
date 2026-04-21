@@ -8,6 +8,6 @@ SPR# 状 P Open Close ver     Type  概要
 0005 ◎ C 04/13 04/20 0001│ToDo│ソース類を src/ 以下に移動 ＆ CMakeLists.txt 修正（src/ 付加）
 0006 ● C 04/13           │ToDo│MacOS でビルドしてみる
 0007 ◎ C 04/13 04/20 0001│ToDo│src/ 下にも CMakeLists.txt 設置？
-0008 ● C 04/13           │ToDo│
+0008 ◎ C 04/13 04/21 0001│ToDo│TestCMake/viMarkdown プロジェクト追加
 0009 ● C 04/13           │ToDo│
 0010 ● C 04/13           │ToDo│
